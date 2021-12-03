@@ -6,6 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --mode development --port 3000",
     "build": "webpack --mode development --verbose --colors --display-error-details",
+    "build2": "webpack",
     "deploy": "node deploy-to-github.js"
   },
   "repository": {
