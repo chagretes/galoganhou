@@ -3,6 +3,7 @@ import "bootstrap";
 import "./style.css";
 
 import "./assets/img/escudo.svg";
+import "./assets/img/foto1.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
